@@ -46,7 +46,7 @@ One of the main advantages of Numpy is that vectorisation using numpy arrays mak
 
 ### Optional Assignment
 
-Once you're confident with the theory, attempt the NumPy assignment by completing the tasks assigned in the Colab notebook [**NumPy_Assignment.ipynb**](https://github.com/deeksha-4/LS-Neural-Networks-NLP/blob/d01828745564914c97083791380ad87fea217176/Week1/NumPy_Assignment.ipynb) in the Week1 folder. Save a copy of the notebook to your Google Drive before you start making changes to it.  
+Once you're confident with the theory, attempt the NumPy assignment by completing the tasks assigned in the Colab notebook [**NumPy_Assignment.ipynb**]([https://github.com/sonugahoi/NEURAL_NETWROK/blob/5f8cdf76dc78ca91cd7f6d2374116247b5870c64/Week1_NumPy_Assignment%20(1).ipynb]) in the Week1 folder. Save a copy of the notebook to your Google Drive before you start making changes to it.  
 _Note: This is an optional assignment_
 
 ## Neural Networks
